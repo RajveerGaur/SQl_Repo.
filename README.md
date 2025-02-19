@@ -1,4 +1,4 @@
 # SQl_Repo.
 This is a my first sql repository
 <br>
-Some code of MYSQL
+Some code for MYSQL
